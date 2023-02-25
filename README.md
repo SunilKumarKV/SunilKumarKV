@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
+  ---
   <!-- Login Page -->
   <div>
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1YTgwMjE4ZDEyNDI1Mzg1NWIyZTA4Nzk5OTRmZjc2NGM4YzMwMCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-
----
 ### :man_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
