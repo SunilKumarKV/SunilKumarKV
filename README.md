@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-<div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
+  <!-- Login Page -->
+  <div>
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1YTgwMjE4ZDEyNDI1Mzg1NWIyZTA4Nzk5OTRmZjc2NGM4YzMwMCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
-<!-- Login Page -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/sunilkumarkv44/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -42,9 +46,6 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 ### :man_technologist: About Me :
