@@ -74,7 +74,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sunil-Kumar-KV&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=Sunil-Kumar-KV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sunil-Kumar-KV&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-KV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
