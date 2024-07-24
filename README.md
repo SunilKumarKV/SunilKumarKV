@@ -77,13 +77,13 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunilKumarKV&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-Kumar-KV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunilKumarKV" alt="SunilKumarKV" /></a> </p>
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunilKumarKV&show_icons=true&locale=en&layout=compact" alt="SunilKumarKV" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SunilKumarKV&show_icons=true&locale=en" alt="SunilKumarKV" /></p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunilKumarKV" alt="SunilKumarKV" /></a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SunilKumarKV&icon=0&color=0)](https://visitcount.itsvg.in)
