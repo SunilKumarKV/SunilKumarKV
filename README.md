@@ -1,43 +1,8 @@
 
-<!--
-**Sunil-Kumar-KV/Sunil-Kumar-KV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-  
-  ---
   <!-- Login Page -->
   <div>
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1YTgwMjE4ZDEyNDI1Mzg1NWIyZTA4Nzk5OTRmZjc2NGM4YzMwMCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sunilkumarkv44/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCrjiEkmPLDOZJb7of0o1rVA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Sunil_KVB">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div id="badges">
-<img src="https://komarev.com/ghpvc/?username=Sunil-Kumar-KV&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -46,9 +11,17 @@ Here are some ideas to get you started:
   I'm Sunil Kumar K V
 </h1>
 </div>
+<h3 align="center">A passionate React Developer from India</h3>
 
 ### :man_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunilKumarKV&label=Profile%20views&color=0e75b6&style=flat" alt="SunilKumarKV" /> </p>
+
+- 🌱 I’m currently learning **MERN STACK**
+  
+- 📫 How to reach me **sunilkumarkv9535@gmail.com**
+  
+- 📽️ YouTube Channel https://www.youtube.com/@kaisertechnews
 
 - :telescope: I’m working as a Front-end Developer and contributing to front-end for building web applications.
 
@@ -56,7 +29,14 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on freecodecamp & GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SunilKumarKV-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunilkumarkv44/)
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sunilkumarkv44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" width="40" /></a>
+<a href="https://instagram.com/Kaiser2op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kaiser2OP" height="30" width="40" /></a>
+<a href="https://twitter.com/Sunil_KVB" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -85,5 +65,3 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunilKumarKV" alt="SunilKumarKV" /></a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SunilKumarKV&icon=0&color=0)](https://visitcount.itsvg.in)
