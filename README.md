@@ -1,10 +1,3 @@
-
-<div id="header" align="center">
-  <!-- Login Page -->
-  <div>
-  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1YTgwMjE4ZDEyNDI1Mzg1NWIyZTA4Nzk5OTRmZjc2NGM4YzMwMCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>
-
 <h1>
   Hi there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
