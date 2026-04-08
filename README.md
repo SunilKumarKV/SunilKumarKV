@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me  
 
 - 💻 Full Stack Developer
-- 📦 Experience in **Material Management (Industry Exposure)**
+- 📦 Experience in **Material Management**
 - 🔥 Skilled in building **real-world scalable applications**
 - 🚀 Currently working on **React + Full Stack Projects**
 - 🎯 Goal: Become **Top 1% Developer & SaaS Builder**
@@ -75,7 +75,7 @@
 
 ### ♟️ Chess App  
 - Real-time multiplayer gameplay  
-- Offline support (WiFi/Bluetooth planned)  
+- Offline support
 - Built with React  
 
 ### 🏥 Healthcare Dashboard  
