@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me  
 
-- 💻 Full Stack Developer with **2+ years experience**
+- 💻 Full Stack Developer
 - 📦 Experience in **Material Management (Industry Exposure)**
 - 🔥 Skilled in building **real-world scalable applications**
 - 🚀 Currently working on **React + Full Stack Projects**
