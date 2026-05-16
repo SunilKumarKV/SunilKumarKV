@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar K V</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Building Scalable SaaS & Real-Time Applications
+🚀 Full Stack Developer | React.js • Node.js | Building Production-Ready SaaS & Real-Time Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%2B+Node.js+Engineer;Building+Production-Ready+Applications;Creator+of+LearnDojoWorld+🥋;Creator+of+ChessPlay+♟️;Future+SaaS+Founder+💰" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%2B+Node.js+Engineer;Building+Production-Ready+Applications;Creator+of+ChessPlay+♟️;MCA+Student;Learning+TypeScript+%2B+Prisma+%2B+PostgreSQL" />
+</p>
+
+<p align="center">
+Building scalable, production-focused applications with modern technologies 🚀
 </p>
 
 ---
@@ -13,11 +17,13 @@
 # 🧠 About Me
 
 - 💻 Full Stack Developer passionate about building real-world scalable applications
-- 🚀 Specialised in React.js ecosystem and modern frontend architecture
-- ⚙️ Building production-focused full-stack projects with real-time systems
-- 🧠 Interested in SaaS, AI learning systems, and scalable product engineering
-- 📦 Background in Material Management & enterprise workflows
-- 🎯 Goal: Build impactful SaaS platforms and become a top-tier software engineer
+- ♟️ Creator of **ChessPlay**, a production-ready real-time chess platform
+- 🚀 Specialized in **React.js ecosystem, Node.js backend systems, and modern frontend architecture**
+- ⚙️ Building full-stack SaaS products with real-time features and scalable architecture
+- 🎓 Currently pursuing **MCA**
+- 🌱 Currently learning **TypeScript, Prisma, PostgreSQL, CI/CD, production architecture**
+- 📦 Background in enterprise workflows and material management
+- 🎯 Goal: Build impactful software products and grow into a top-tier software engineer
 
 ---
 
@@ -30,7 +36,7 @@
   </a>
 
   <a href="https://devwithsunil.vercel.app">
-    <img src="https://img.shields.io/badge/YTPortfolio-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DevWithSunil-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sunilkumarkv44/">
@@ -48,40 +54,60 @@
 # 🚀 Tech Stack
 
 ## 🎨 Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,redux"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,redux" />
 </p>
 
 ## ⚙️ Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-## 🗄️ Database & Auth
-
+## 🗄️ Database & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase" />
 </p>
 
 ## ☁️ Tools & Platforms
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,render"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,render,docker" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+# ♟️ ChessPlay
+
+### Production-Ready Real-Time Chess Platform
+
+A production-focused chess application built with modern full-stack architecture and real-time gameplay features.
+
+### 🔥 Features
+- Real-time multiplayer gameplay
+- AI opponent using Stockfish
+- Authentication system
+- Leaderboard
+- Friends & notifications
+- Premium membership features
+- Referral system
+- Responsive dashboard UI
+- Modern gaming UX
+
+### 🛠 Stack
+`React` `Node.js` `Express.js` `Socket.IO` `MongoDB` `Stockfish`
+
+🔗 Live Demo: https://chessplay1.vercel.app
+
+---
+
 # 🥋 LearnDojoWorld
 
-### AI-Powered Memory-Focused Learning Platform
+### AI-Powered Memory-Focused Learning Platform (In Development)
 
 A next-generation EdTech SaaS platform focused on helping users learn deeply and remember long-term using memory science techniques, active recall, gamification, animations, and real-world explanations.
 
-### 🔥 Features
+### 🔥 Planned Features
 - Structured learning roadmaps
 - Creator/teacher dashboard
 - Quiz & flashcard system
@@ -92,29 +118,8 @@ A next-generation EdTech SaaS platform focused on helping users learn deeply and
 - Role-based architecture
 - Admin moderation system
 
-### 🛠 Stack
+### 🛠 Planned Stack
 `React` `Node.js` `Express.js` `PostgreSQL` `Prisma`
-
----
-
-# ♟️ ChessPlay
-
-### Production Chess Platform
-
-A real-time multiplayer chess application with AI opponent integration and modern gaming UI/UX.
-
-### 🔥 Features
-- Real-time multiplayer gameplay
-- AI opponent using Stockfish
-- Socket.IO communication
-- Authentication system
-- Responsive design
-- Modern dashboard UI
-
-### 🛠 Stack
-`React` `Node.js` `Socket.IO` `MongoDB`
-
-🔗 Live Demo: https://chessplay1.vercel.app
 
 ---
 
@@ -129,7 +134,7 @@ Modern responsive healthcare analytics dashboard with pixel-perfect UI implement
 
 # 🎵 Music Player
 
-Real-time music player application with API-based songs and modern responsive UI.
+Real-time music player application with API integration and modern responsive UI.
 
 ### 🛠 Stack
 `React` `TailwindCSS` `REST API`
@@ -165,36 +170,37 @@ Real-time music player application with API-based songs and modern responsive UI
 
 - ⚡ Advanced React Patterns
 - 🏗️ System Design
-- ☁️ Cloud & Deployment
+- ☁️ Cloud Deployment
 - 🔐 Authentication & Security
 - 🧱 Scalable Backend Architecture
-- 💰 SaaS Product Engineering
+- 🐘 PostgreSQL + Prisma
+- 🚀 Production CI/CD workflows
 
 ---
 
 # 🤝 Open To
 
-- Full Stack Opportunities
-- Frontend Development Roles
-- Freelance Projects
-- SaaS Collaborations
-- Open Source Contributions
+- Full Stack Developer opportunities
+- Frontend Developer roles
+- Freelance web projects
+- SaaS collaborations
+- Open source contributions
 
 ---
 
 # 💡 Developer Philosophy
 
-> “Build real-world projects. Learn deeply. Stay consistent.”
+> Build real-world products. Learn deeply. Stay consistent.
 
 ---
 
 # ⭐ Support My Work
 
-If you like my projects:
+If you like my work:
 
 ⭐ Star my repositories  
 🍴 Fork projects  
-👨‍💻 Follow my development journey  
+👨‍💻 Follow my development journey
 
 ---
 
